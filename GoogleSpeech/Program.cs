@@ -1,10 +1,4 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: GoogleSpeech.Program
-// Assembly: GoogleSpeech, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: 0C17F3C3-4600-4EE5-9D95-56CC205F662B
-// Assembly location: C:\Users\iliaa\Downloads\stella\stella\Stella\SpeechRecognitionApp\GoogleSpeech.exe
-
-using Google.Apis.Auth.OAuth2;
+﻿using Google.Apis.Auth.OAuth2;
 using Google.Cloud.Speech.V1;
 using Google.Protobuf;
 using Grpc.Auth;
